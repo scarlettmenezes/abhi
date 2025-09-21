@@ -1,7 +1,10 @@
 {
-  "name": "let",
-  "version": "0.1.0",
+  "name": "paisabuddy",
+  "version": "1.0.0",
   "private": true,
+  "description": "Empowering Young India with Smart Money Skills - Financial literacy platform for youth",
+  "keywords": ["financial-literacy", "budgeting", "investing", "education", "nextjs", "react"],
+  "author": "Paisabuddy Team",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
